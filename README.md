@@ -28,4 +28,4 @@
 	}
 ```
 > 组件预览
-![https://user.qzone.qq.com/418871024/infocenter]
+![select组件]: https://user.qzone.qq.com/418871024/infocenter
