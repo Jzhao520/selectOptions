@@ -27,5 +27,4 @@
 		}
 	}
 ```
-> 组件预览
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+> ![组件预览](http://m.qpic.cn/psc?/V12VYUx50nnP3h/TmEUgtj9EK6.7V8ajmQrEBJ13R1PYSajYO6.Jksp80SWOtBuxyk33K3t41Rdy7s9yshPoyYggfZUwBRi7WsV4nV3duixwYhmjGxeHAqIm.Y!/b&bo=UAFKAQAAAAACFyk!&rf=viewer_4 "组件预览")
