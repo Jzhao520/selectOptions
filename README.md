@@ -28,4 +28,4 @@
 	}
 ```
 > 组件预览
-![select组件]: https://user.qzone.qq.com/418871024/infocenter
+![select组件](http://m.qpic.cn/psc?/V12VYUx50nnP3h/TmEUgtj9EK6.7V8ajmQrEBJ13R1PYSajYO6.Jksp80SWOtBuxyk33K3t41Rdy7s9yshPoyYggfZUwBRi7WsV4nV3duixwYhmjGxeHAqIm.Y!/b&bo=UAFKAQAAAAACFyk!&rf=viewer_4 "selectOptions")
