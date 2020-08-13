@@ -1,0 +1,65 @@
+$base-flex: flex
+$base-center: center
+$base-space-between: space-between
+$base-color-4: #444
+$base-color-9: #999
+$base-28: .65rem
+$base-30: .75rem
+$base-weight-500: 500
+
+$base-color-blue: #5F00B4
+.v-relative
+    position: relative
+.v-absolute 
+    position: absolute
+.box
+    min-height: 2.5rem
+    border-bottom: 1px solid #ebebeb
+.input-select
+    .options-default
+        display: $base-flex
+        align-items: $base-center
+        justify-content: $base-space-between
+        width: 100%
+        height: 2.5rem
+        line-height: 2.5rem
+        color: $base-color-4
+        padding-right: $base-30
+        font:
+            size: $base-28
+            weight: $base-weight-500
+        &::after
+            content: ""
+            display: block
+            width: .375rem
+            height: .375rem
+            background: url("../assets/images/icon-extend.png") no-repeat center
+            background-size: contain
+            transition: transform ease-in .3s
+    .active-animation-route
+        &::after
+            transform: rotate(180deg)
+.options-list
+    left: 0
+    top: 2.5rem
+    background: #fff
+    width: 100%
+    max-height: 12.5rem
+    overflow-y: auto
+    border: 1px solid #BFBFBF
+    border-radius: 4px
+    z-index: 20
+    padding-bottom: .5rem
+    ul
+        padding: 0 .25rem
+        li
+            color: $base-color-9
+            line-height: 1.2rem
+            padding: 0 .5rem
+            margin-top: .5rem
+            font:
+                size: $base-28
+                weight: $base-weight-500
+        .worker-status-checked
+            background: rgba($base-color-blue,0.08)
+            color: $base-color-blue   
